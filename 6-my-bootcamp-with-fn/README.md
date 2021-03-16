@@ -21,6 +21,13 @@ Call the function 4 times with different inputs.
 
 ```
 
+- `[]`
+- Output:
+
+```js
+This class is empty
+```
+
 ## Resources
 
 - [Javscript.info: Arrays](https://javascript.info/array)
