@@ -10,6 +10,7 @@ And new content:
   - Function Declaration
   - Function Expressions
     - Arrow Functions
+- Basic String Methods
 - Arrays
 - Objects
 
