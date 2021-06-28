@@ -1,7 +1,7 @@
 # Exercise 6: My Bootcamp with Functions
 
 Similar to the previous exercise, create a function `logClass`
-that accepts a parameter `alumniList` and logs the output to the console
+that accepts a parameter `studentList` and logs the output to the console
 as in the previous exercise.
 
 Call the function 4 times with different inputs.
