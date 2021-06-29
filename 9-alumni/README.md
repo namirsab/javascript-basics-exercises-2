@@ -1,10 +1,10 @@
 # Exercise 9: Alumni
 
 Let's use a JavaScript object to model an Alumni.
-Create 3 objects that contains the data defined in the requirements for 3 different Alumni
+Create 3 objects that contains the data defined in the requirements for 3 different students
 (you can invent them, be creative).
 
-Then, create a function called `displayAlumni` that accepts an object as parameter
+Then, create a function called `displayStudent` that accepts an object as parameter
 representing the alumni and make it log to the console the following:
 
 ```
