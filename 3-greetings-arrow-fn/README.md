@@ -1,4 +1,4 @@
-# Exercise 3: Greetings (with function declarations)!
+# Exercise 3: Greetings (with arrow funcction expression)!
 
 Declare a function called `greet` that has a parameter `userName` and
 returns the string `"Hello <userName>"`
