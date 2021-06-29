@@ -5,7 +5,7 @@ Let's create some functions to deal with strings
 ## Requirements
 
 - `isEmptyString` that receives a string and returns true if the string is empty, false if not
-- `isIncluded` that receives 2 strings `(a, b)` and returns true if the string b is included in it
+- `isIncluded` that receives 2 strings `(a, b)` and returns true if the string b is included in a
 - `firstCharacter` that receives a string and returns its first character
 - `lastCharacter` that receives a string and returns its last character
 - `capitalize` that receives a string and returns a new one with the first letter being a capital letter.
