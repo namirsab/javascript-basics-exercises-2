@@ -15,7 +15,7 @@ Let's create some functions to deal with strings
 ```js
 isEmptyString(""); // true
 isEmptyString("some string"); // false
-IsIncluded("bus", "us"); // true
+isIncluded("bus", "us"); // true
 isIncluded("house", "cat"); // false
 firstCharacter("house"); // "h"
 lastCharacter("house"); // "e"
